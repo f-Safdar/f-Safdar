@@ -49,8 +49,8 @@ console.log(developerProfile);
  <img width="1039" alt="Terminal Learning notes" src="https://github.com/user-attachments/assets/c44a7b64-b817-41f9-83bc-c7183ce91db8" />
 
 #### Like to Team
-<div align="center">
-👩‍💻 Engaging with the Code to Contribute, Collaborate and Connect <a href = "https://www.linkedin.com/in/fatima-safdar/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="20"></a> to turn into <img src="https://img.shields.io/badge/coffee-6f4f37?style=flat&logo=coffeescript&logoColor=white"/>
+<div>
+👩‍💻 Engaging with the Code to Contribute, Collaborate and Connect on <a href = "https://www.linkedin.com/in/fatima-safdar/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="20"></a> to turn into <img src="https://img.shields.io/badge/coffee-6f4f37?style=flat&logo=coffeescript&logoColor=white"/>
 
 </div>
 
